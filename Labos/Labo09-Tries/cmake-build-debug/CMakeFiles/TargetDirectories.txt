@@ -1,0 +1,7 @@
+/home/mateo/Escritorio/Carrera/Algo2 - Labo/AyED2-Labo09-Tries/cmake-build-debug/CMakeFiles/gtest.dir
+/home/mateo/Escritorio/Carrera/Algo2 - Labo/AyED2-Labo09-Tries/cmake-build-debug/CMakeFiles/gtest_main.dir
+/home/mateo/Escritorio/Carrera/Algo2 - Labo/AyED2-Labo09-Tries/cmake-build-debug/CMakeFiles/correrTests.dir
+/home/mateo/Escritorio/Carrera/Algo2 - Labo/AyED2-Labo09-Tries/cmake-build-debug/CMakeFiles/correrTests_ext.dir
+/home/mateo/Escritorio/Carrera/Algo2 - Labo/AyED2-Labo09-Tries/cmake-build-debug/CMakeFiles/correrValgrind.dir
+/home/mateo/Escritorio/Carrera/Algo2 - Labo/AyED2-Labo09-Tries/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mateo/Escritorio/Carrera/Algo2 - Labo/AyED2-Labo09-Tries/cmake-build-debug/CMakeFiles/rebuild_cache.dir
